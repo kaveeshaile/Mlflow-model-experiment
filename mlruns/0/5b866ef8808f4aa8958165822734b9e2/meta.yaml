@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/experiment/Mlflow-model-experiment/mlruns/0/5b866ef8808f4aa8958165822734b9e2/artifacts
+end_time: 1711610424513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b866ef8808f4aa8958165822734b9e2
+run_name: rebellious-trout-896
+run_uuid: 5b866ef8808f4aa8958165822734b9e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711610420671
+status: 3
+tags: []
+user_id: HP
